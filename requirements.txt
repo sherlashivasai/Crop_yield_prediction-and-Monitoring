@@ -1,0 +1,17 @@
+Numpy
+pandas
+sklearn
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+bs4
+arxiv
+langchain-text-splitters
+langchain-openai
+langchain_chroma
+langchain-groq
+huggingface_hub
+joblib
+Matplotlib
